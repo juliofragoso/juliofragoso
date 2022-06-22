@@ -1,9 +1,8 @@
-## 👋 OPA! Me chamo Julio Fragoso
+# 👋 OPA! Me chamo Julio Fragoso
 
 
-- 🔭 Trabalhando como Freelancer
+- ⚙️ Trabalho com ReactJS e um pouco de React Native
 - ✍️ Tenho alguns trabalhos como UX/UI (Podem ser vistos no Portfolio Behance abaixo)
-- 🌱 Estudando firmemente ReactJS e um pouco de React Native
 - ⚡ Fun fact: Amo Video games (ao ponto de ter um canal no YouTube e Fazer lives na Twitch)
 
 <div align="center">
